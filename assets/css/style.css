@@ -1,0 +1,14 @@
+
+.jumbotron{
+  color:white;
+  text-align: center;
+  margin: 0 70px 50px;
+  background-color: rgb(15, 15, 43);
+}
+.container{
+  margin-bottom: 5%;
+}
+#trainForm{
+  padding: 15px;
+  margin-bottom: 10px;
+}
